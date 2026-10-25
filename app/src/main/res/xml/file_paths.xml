@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <external-files-path
+        name="photos"
+        path="Pictures/PhotoField/" />
+    <external-files-path
+        name="pdfs"
+        path="Documents/PhotoField/" />
+    <cache-path
+        name="cache"
+        path="." />
+    <external-cache-path
+        name="external_cache"
+        path="." />
+</paths>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 Color Scheme -->
+    <color name="md_theme_light_primary">#2E7D32</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#A5D6A7</color>
+    <color name="md_theme_light_onPrimaryContainer">#1B5E20</color>
+    <color name="md_theme_light_secondary">#4A6D4C</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#CBE5CD</color>
+    <color name="md_theme_light_onSecondaryContainer">#2E4B30</color>
+    <color name="md_theme_light_tertiary">#3A6D8C</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#D0E4F8</color>
+    <color name="md_theme_light_onTertiaryContainer">#1D3D5C</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onErrorContainer">#93000A</color>
+    <color name="md_theme_light_background">#FCFDFB</color>
+    <color name="md_theme_light_onBackground">#1A1C19</color>
+    <color name="md_theme_light_surface">#FCFDFB</color>
+    <color name="md_theme_light_onSurface">#1A1C19</color>
+    <color name="md_theme_light_surfaceVariant">#E0E3DD</color>
+    <color name="md_theme_light_onSurfaceVariant">#434742</color>
+    <color name="md_theme_light_outline">#737772</color>
+    <color name="md_theme_light_outlineVariant">#C3C7C2</color>
+    <color name="md_theme_light_shadow">#000000</color>
+    <color name="md_theme_light_scrim">#000000</color>
+    <color name="md_theme_light_inverseSurface">#2F312E</color>
+    <color name="md_theme_light_inverseOnSurface">#F1F3EF</color>
+    <color name="md_theme_light_inversePrimary">#81C784</color>
+    <color name="md_theme_light_surfaceTint">#2E7D32</color>
+
+    <color name="md_theme_dark_primary">#81C784</color>
+    <color name="md_theme_dark_onPrimary">#1B5E20</color>
+    <color name="md_theme_dark_primaryContainer">#2E7D32</color>
+    <color name="md_theme_dark_onPrimaryContainer">#A5D6A7</color>
+    <color name="md_theme_dark_secondary">#AFCBAE</color>
+    <color name="md_theme_dark_onSecondary">#2E4B30</color>
+    <color name="md_theme_dark_secondaryContainer">#4A6D4C</color>
+    <color name="md_theme_dark_onSecondaryContainer">#CBE5CD</color>
+    <color name="md_theme_dark_tertiary">#A8CFE8</color>
+    <color name="md_theme_dark_onTertiary">#1D3D5C</color>
+    <color name="md_theme_dark_tertiaryContainer">#3A6D8C</color>
+    <color name="md_theme_dark_onTertiaryContainer">#D0E4F8</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_onError">#93000A</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+    <color name="md_theme_dark_background">#1A1C19</color>
+    <color name="md_theme_dark_onBackground">#E3E4E0</color>
+    <color name="md_theme_dark_surface">#1A1C19</color>
+    <color name="md_theme_dark_onSurface">#E3E4E0</color>
+    <color name="md_theme_dark_surfaceVariant">#434742</color>
+    <color name="md_theme_dark_onSurfaceVariant">#C3C7C2</color>
+    <color name="md_theme_dark_outline">#8D928C</color>
+    <color name="md_theme_dark_outlineVariant">#434742</color>
+    <color name="md_theme_dark_shadow">#000000</color>
+    <color name="md_theme_dark_scrim">#000000</color>
+    <color name="md_theme_dark_inverseSurface">#E3E4E0</color>
+    <color name="md_theme_dark_inverseOnSurface">#2F312E</color>
+    <color name="md_theme_dark_inversePrimary">#2E7D32</color>
+    <color name="md_theme_dark_surfaceTint">#81C784</color>
+
+    <!-- Custom Colors -->
+    <color name="camera_overlay_bg">#80000000</color>
+    <color name="camera_button_bg">#FFFFFF</color>
+    <color name="camera_button_icon">#000000</color>
+    <color name="location_accuracy_high">#2E7D32</color>
+    <color name="location_accuracy_medium">#F57F17</color>
+    <color name="location_accuracy_low">#C62828</color>
+    <color name="photo_grid_spacing">#00000000</color>
+</resources>

@@ -1,0 +1,73 @@
+# PhotoField .gitignore
+
+# Gradle
+.gradle/
+build/
+*/build/
+!*/src/main/**/build.gradle.kts
+!*/src/main/**/build.gradle
+!gradlew
+!gradlew.bat
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Android
+*.apk
+*.apks
+*.aab
+*.dex
+*.class
+
+# Generated files
+generated/
+captures/
+*.hprof
+
+# Kotlin
+*.kt.metadata
+
+# Compose
+compose/
+
+# Hilt
+build/generated/hilt/
+
+# Room
+schemas/
+
+# Signing
+*.keystore
+*.jks
+signing.properties
+
+# Google Services
+google-services.json
+
+# Firebase
+firebase-crashlytics-build.properties
+
+# Crashlytics
+crashlytics-build.properties
+
+# Release
+release/
+
+# Temp files
+*.tmp
+*.temp
+*.log
+
+# Backup
+*~
+*.bak
+*.orig

@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">PhotoField</string>
+    <string name="app_name_short">PhotoField</string>
+
+    <!-- Navigation -->
+    <string name="nav_projects">Proyek</string>
+    <string name="nav_map">Peta</string>
+    <string name="nav_settings">Pengaturan</string>
+
+    <!-- Project List -->
+    <string name="project_list_title">Daftar Proyek</string>
+    <string name="project_list_empty">Belum ada proyek</string>
+    <string name="project_list_empty_desc">Buat proyek baru untuk mulai mendokumentasikan</string>
+    <string name="create_project">Buat Proyek Baru</string>
+    <string name="project_name_hint">Nama Proyek</string>
+    <string name="project_desc_hint">Deskripsi (opsional)</string>
+    <string name="project_location_hint">Lokasi Proyek</string>
+    <string name="btn_create">Buat</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="btn_save">Simpan</string>
+    <string name="btn_edit">Edit</string>
+    <string name="btn_delete">Hapus</string>
+    <string name="btn_add_activity">Tambah Activity</string>
+
+    <!-- Project Detail -->
+    <string name="project_detail_title">Detail Proyek</string>
+    <string name="no_activities">Belum ada activity</string>
+    <string name="no_activities_desc">Tambah activity pertama untuk mulai foto</string>
+
+    <!-- Activity Detail -->
+    <string name="activity_detail_title">Activity: %s</string>
+    <string name="activity_empty">Belum ada foto</string>
+    <string name="activity_empty_desc">Ambil foto pertama untuk activity ini</string>
+    <string name="take_photo">Ambil Foto</string>
+    <string name="add_existing_photo">Tambah dari Galeri</string>
+    <string name="export_pdf">Ekspor PDF</string>
+    <string name="view_map">Lihat Peta</string>
+    <string name="edit_activity">Edit Activity</string>
+    <string name="delete_activity_confirm">Hapus activity ini beserta semua fotonya?</string>
+    <string name="photo_count">%d foto</string>
+
+    <!-- Camera -->
+    <string name="camera_title">Kamera</string>
+    <string name="camera_permission_denied">Izin kamera ditolak</string>
+    <string name="camera_permission_rationale">Aplikasi butuh akses kamera untuk mengambil foto</string>
+    <string name="location_permission_denied">Izin lokasi ditolak</string>
+    <string name="location_permission_rationale">Aplikasi butuh akses lokasi untuk menyimpan koordinat GPS di foto</string>
+    <string name="capture_photo">Ambil Foto</string>
+    <string name="retake_photo">Ulangi</string>
+    <string name="use_photo">Gunakan</string>
+    <string name="switch_camera">Ganti Kamera</string>
+    <string name="toggle_flash">Flash</string>
+    <string name="autofocus_on">Autofokus: ON</string>
+    <string name="autofocus_off">Autofokus: OFF</string>
+    <string name="getting_location">Mendapatkan lokasi…</string>
+    <string name="location_accuracy">Akurasi: %s meter</string>
+    <string name="photo_saved">Foto tersimpan</string>
+    <string name="photo_save_failed">Gagal menyimpan foto</string>
+
+    <!-- PDF -->
+    <string name="pdf_preview_title">Pratinjau PDF</string>
+    <string name="pdf_generating">Menghasilkan PDF…</string>
+    <string name="pdf_generated">PDF berhasil dibuat</string>
+    <string name="pdf_failed">Gagal membuat PDF</string>
+    <string name="pdf_share">Bagikan PDF</string>
+    <string name="pdf_save">Simpan ke Perangkat</string>
+    <string name="pdf_template_title">Template PDF</string>
+    <string name="pdf_header_hint">Header (mis: Nama Perusahaan, Logo)</string>
+    <string name="pdf_footer_hint">Footer (mis: Nomor Halaman, Tanggal)</string>
+    <string name="pdf_watermark_hint">Watermark (opsional)</string>
+    <string name="include_gps_in_pdf">Sertakan Koordinat GPS</string>
+    <string name="include_timestamp_in_pdf">Sertakan Waktu Foto</string>
+    <string name="photos_per_page">Foto per Halaman</string>
+    <string name="page_orientation">Orientasi Halaman</string>
+    <string name="portrait">Potret</string>
+    <string name="landscape">Lanskap</string>
+
+    <!-- Map -->
+    <string name="map_title">Peta Lokasi Foto</string>
+    <string name="map_no_photos">Tidak ada foto dengan lokasi</string>
+    <string name="map_cluster_count">%d foto</string>
+    <string name="photo_info_title">%s</string>
+    <string name="photo_info_time">%s</string>
+    <string name="photo_info_coords">Lat: %.6f, Lng: %.6f</string>
+    <string name="photo_info_accuracy">Akurasi: %.1f m</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Pengaturan</string>
+    <string name="settings_camera">Kamera</string>
+    <string name="settings_pdf">PDF Export</string>
+    <string name="settings_storage">Penyimpanan</string>
+    <string name="settings_about">Tentang</string>
+    <string name="pref_camera_autofocus">Aktifkan Autofokus</string>
+    <string name="pref_camera_autofocus_summary">Gunakan autofokus kontinu saat preview kamera</string>
+    <string name="pref_camera_flash_default">Flash Default</string>
+    <string name="pref_pdf_orientation">Orientasi Default</string>
+    <string name="pref_pdf_photos_per_page">Foto per Halaman</string>
+    <string name="pref_pdf_include_gps">Sertakan GPS di PDF</string>
+    <string name="pref_pdf_include_timestamp">Sertakan Timestamp di PDF</string>
+    <string name="pref_storage_location">Lokasi Simpan Foto</string>
+    <string name="pref_auto_backup">Backup Otomatis ke Drive</string>
+    <string name="app_version">Versi %s</string>
+
+    <!-- Dialogs & Toasts -->
+    <string name="delete_confirm">Yakin ingin menghapus?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="ok">OK</string>
+    <string name="error_generic">Terjadi kesalahan</string>
+    <string name="success_saved">Data tersimpan</string>
+
+    <!-- Content Descriptions -->
+    <string name="cd_project_icon">Ikon Proyek</string>
+    <string name="cd_activity_icon">Ikon Activity</string>
+    <string name="cd_photo_thumbnail">Thumbnail Foto</string>
+    <string name="cd_map_marker">Marker Lokasi Foto</string>
+    <string name="cd_camera_switch">Ganti Kamera</string>
+    <string name="cd_camera_flash">Toggle Flash</string>
+    <string name="cd_camera_autofocus">Toggle Autofokus</string>
+</resources>
