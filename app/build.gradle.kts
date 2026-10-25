@@ -1,7 +1,6 @@
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
-    id("com.google.gms.google-services")
     id("com.google.dagger.hilt.android") version "2.51" apply true
     id("kotlin-kapt")
     id("org.jetbrains.kotlin.plugin.serialization")
