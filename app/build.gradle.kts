@@ -4,7 +4,8 @@ plugins {
     id("com.google.gms.google-services")
     id("com.google.dagger.hilt.android") version "2.51" apply true
     id("kotlin-kapt")
-    id("kotlinx-serialization")
+    id("org.jetbrains.kotlin.plugin.serialization")
+    id("org.jetbrains.kotlin.plugin.compose")
 }
 
 android {
