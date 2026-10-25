@@ -77,14 +77,11 @@ dependencies {
     val camerax_version = "1.4.0-beta02"
 
     // Location
-    val location_version = "2.1.2"
+    val location_version = "21.2.0"
 
     // Maps (osmdroid - OpenStreetMap, no API key needed)
     val osmdroid_version = "6.1.16"
     val slf4j_version = "1.7.36"
-
-    // PDF
-    val pdf_version = "2.0.1"
 
     // Image loading
     val coil_version = "2.6.0"
@@ -155,8 +152,7 @@ dependencies {
     // Serialization
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:$serialization_version")
 
-    // PDF Generation
-    implementation("com.github.gnostice:PDFOne:${pdf_version}") // Alternative: use Android's built-in PdfDocument
+    // PDF Generation - using Android's built-in PdfDocument (no external dependency needed)
 
     // Core KTX
     implementation("androidx.core:core-ktx:$core_ktx_version")
