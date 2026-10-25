@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Minimal base theme - use AppCompat which is guaranteed to exist -->
+    <!-- Base Theme - Minimal AppCompat, no Material3 XML dependencies -->
     <style name="Theme.PhotoFieldApp" parent="Theme.AppCompat.DayNight.NoActionBar">
-        <!-- Status bar & navigation -->
         <item name="android:statusBarColor">@android:color/transparent</item>
         <item name="android:navigationBarColor">@android:color/transparent</item>
         <item name="android:windowLightStatusBar">true</item>
