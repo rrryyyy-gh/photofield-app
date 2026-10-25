@@ -7,6 +7,7 @@
         <item name="android:windowLightStatusBar">true</item>
         <item name="android:windowLightNavigationBar">true</item>
         <item name="android:windowBackground">@color/md_theme_light_background</item>
+        <item name="android:forceDarkAllowed">false</item>
     </style>
 
     <!-- Fullscreen theme for camera -->
