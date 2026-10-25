@@ -81,7 +81,7 @@
     <string name="map_cluster_count">%d foto</string>
     <string name="photo_info_title">%s</string>
     <string name="photo_info_time">%s</string>
-    <string name="photo_info_coords">Lat: %.6f, Lng: %.6f</string>
+    <string name="photo_info_coords">Lat: %1$.6f, Lng: %2$.6f</string>
     <string name="photo_info_accuracy">Akurasi: %.1f m</string>
 
     <!-- Settings -->
